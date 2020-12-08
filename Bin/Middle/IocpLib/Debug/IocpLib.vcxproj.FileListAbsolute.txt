@@ -1,2 +1,0 @@
-D:\Work\SmashServer\Bin\Debug\IocpLib.pdb
-D:\Work\SmashServer\Bin\Middle\IocpLib\Debug\IocpLib.pdb
