@@ -1,0 +1,2 @@
+D:\Work\SmashServer\Bin\Debug\GameLib.pdb
+D:\Work\SmashServer\Bin\Middle\GameLib\Debug\GameLib.pdb

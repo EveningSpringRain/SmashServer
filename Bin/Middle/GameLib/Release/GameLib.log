@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  GameLib.cpp
+  GameProtocol.pb.cc
+D:\Work\SmashServer\External\ProtoBuf\Src\google\protobuf\parse_context.h(211,17): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Work\SmashServer\Project\GameLib\Protocol\GameProtocol.pb.cc(190,69): warning C4244: '=': 'google::protobuf::uint64'에서 'google::protobuf::int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Work\SmashServer\Project\GameLib\Protocol\GameProtocol.pb.cc(384,69): warning C4244: '=': 'google::protobuf::uint64'에서 'google::protobuf::int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Work\SmashServer\External\ProtoBuf\Src\google\protobuf\parse_context.h(350,22): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Work\SmashServer\External\ProtoBuf\Src\google\protobuf\parse_context.h(366): message : 컴파일되는 함수 템플릿 인스턴스화 'const char *google::protobuf::internal::EpsCopyInputStream::AppendUntilEnd<google::protobuf::internal::EpsCopyInputStream::AppendString::<lambda_2a2a8cefb56710607aa8bf74eb61d0f6>>(const char *,const A &)'에 대한 참조를 확인하세요.
+          with
+          [
+              A=google::protobuf::internal::EpsCopyInputStream::AppendString::<lambda_2a2a8cefb56710607aa8bf74eb61d0f6>
+          ]
+  TestGame.cpp
+  GameLib.vcxproj -> D:\Work\SmashServer\Bin\Release\GameLib.lib

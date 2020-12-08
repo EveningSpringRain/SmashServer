@@ -1,0 +1,2 @@
+D:\Work\SmashServer\Bin\Debug\CommonLib.pdb
+D:\Work\SmashServer\Bin\Middle\CommonLib\Debug\CommonLib.pdb
